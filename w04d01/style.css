@@ -1,0 +1,16 @@
+nav.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul.navbar-menu {
+  list-style: none;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+ul.navbar-menu a {
+  text-decoration: none;
+}
